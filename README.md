@@ -1,5 +1,5 @@
 ### Apresentação:
-Olá! 👋 Meu nome é Angelo Rodrigo Almeida Fernandes, tenho 29 Anos.
+Olá! 👋 Meu nome é Angelo Rodrigo Almeida Fernandes, tenho 30 Anos.
 - Comecei aos 8 anos desmontando e remontando a torre e a tela do computador da minha mãe para limpar, a partir dai, fui crescendo e sempre me fascinando pelo mundo da tecnologia, tentando descobrir o porque e como funciona as coisas;
 - Tive alguns trancos e barrancos pelo caminho, e acabei deixando meu estudo de lado, focando só no que era necessário para minhas funções do trabalho, mas hoje estou estudando mais do que nunca e correndo atrás do tempo perdido;
 - Aprendo rápido tudo o que for necessário para desempenhar melhor as minhas funções, sempre buscando otimizar o trabalho;
