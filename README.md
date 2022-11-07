@@ -11,7 +11,7 @@ Olá! 👋 Meu nome é Angelo Rodrigo Almeida Fernandes, tenho 30 Anos.
 
 #### Emprego atual:
 * 👨‍💻 Trabalho como Técnico de Informática na AMBEP TurSeguros desempenhando as funções de:
-    - Hel-Desk (Suporte técnico e aulas com as novas tecnologias implantadas para os funcionários);
+    - Help-Desk (Suporte técnico e aulas com as novas tecnologias implantadas para os funcionários);
     - Gestor de:
         
         -> Ativos (Manutenção, Limpeza e configuração das maquinas);
@@ -24,9 +24,9 @@ Olá! 👋 Meu nome é Angelo Rodrigo Almeida Fernandes, tenho 30 Anos.
         
         -> Telecomunicações (Centrais PABX e IP);
         
-        -> Segurança local (Alarme e porteiro eletrônico);
+        -> Segurança e Controle de acesso local (Alarme e porteiro eletrônico);
         
-        -> Contratos de empresas terceirizadas e prestadores de serviços para a TI.
+        -> Contratos (Empresas terceirizadas e prestadores de serviços para a TI).
 
 ***
 
