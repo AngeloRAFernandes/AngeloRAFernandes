@@ -14,11 +14,11 @@ Olá! 👋 Meu nome é Angelo Rodrigo Almeida Fernandes, tenho 30 Anos.
     - Help-Desk (Suporte técnico e aulas com as novas tecnologias implantadas para os funcionários);
     - Gestor de:
         
-        -> Ativos (Manutenção, Limpeza e configuração das maquinas);
+        -> Ativos (Manutenção, Limpeza e configuração das máquinas);
         
         -> Redes (Firewall, Switch gerenciável e Cabeamento estruturado);
         
-        -> Servidores fisicos (Windows Server AD, DNS e Storage);
+        -> Servidores físicos (Windows Server AD, DNS e Storage);
         
         -> Servidores em nuvem (Microsoft Azure AD, Sharepoint e Exchange);
         
