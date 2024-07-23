@@ -20,12 +20,13 @@ Olá! 👋 Meu nome é Angelo Rodrigo Almeida Fernandes, tenho 32 Anos.
 
 ***
 
-#### Emprego atual:
+### Emprego atual:
 
-*  Em busca de uma nova aventura ...
+ *  Em busca de uma nova aventura ...
 
+***
 
-#### Experiência profissional:
+### Experiência profissional:
 
 * 👨‍💻 Técnico Comercial na WX IT Solutions Technologies por 1 Ano e 2 meses desempenhando as funções de:
     - Web Designer: Criação de logotipos, websites, cartões de visita, fotos e conteúdo para blog, posts para redes sociais e outros materiais gráficos.
@@ -64,7 +65,7 @@ Olá! 👋 Meu nome é Angelo Rodrigo Almeida Fernandes, tenho 32 Anos.
 
 ***
 
-#### Minhas competências Técnicas :
+### Minhas competências Técnicas :
 
 * Produtividade e Colaboração:  
     - Microsoft Office 365  
@@ -94,8 +95,13 @@ Olá! 👋 Meu nome é Angelo Rodrigo Almeida Fernandes, tenho 32 Anos.
 * Cloud:  
     - Microsoft Azure AD 
 
+***
 
-#### Minhas formações atuais são:
+### Especializações e Cursos:
+
+* Formação:
+    - UniCesumar - Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (Tecnólogo)
+
 
 * Certificações:  
     - CertiProf – DevOps Essentials Professional (DEPC) - Nº: 42671825
