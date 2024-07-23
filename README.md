@@ -27,7 +27,7 @@ Olá! 👋 Meu nome é Angelo Rodrigo Almeida Fernandes, tenho 32 Anos.
 
 #### Experiência profissional:
 
-* 👨‍💻 Técnico Comercial na WX IT Solutions Technologies desempenhando as funções de:
+* 👨‍💻 Técnico Comercial na WX IT Solutions Technologies por 1 Ano e 2 meses desempenhando as funções de:
     - Web Designer: Criação de logotipos, websites, cartões de visita, fotos e conteúdo para blog, posts para redes sociais e outros materiais gráficos.
     - Administrativo: Realização de cotações e cadastros nas plataformas de parceiros.
     - Vendas: Condução de visitas presenciais e remotas a clientes, demonstrando e vendendo produtos e serviços.
@@ -35,7 +35,7 @@ Olá! 👋 Meu nome é Angelo Rodrigo Almeida Fernandes, tenho 32 Anos.
     - Help-Desk: Prestação de suporte técnico e formação em novas tecnologias implantadas.
 
 
-* 👨‍💻 Analista de Informática na AMBEP TurSeguros desempenhando as funções de:
+* 👨‍💻 Analista de Informática na AMBEP TurSeguros por 9 Ano e 7 meses desempenhando as funções de:
     - Help-Desk (Suporte técnico e aulas com as novas tecnologias implantadas para os funcionários);
     - Gestor de:  
         - Ativos (Manutenção, Limpeza e configuração das máquinas);
@@ -47,17 +47,17 @@ Olá! 👋 Meu nome é Angelo Rodrigo Almeida Fernandes, tenho 32 Anos.
         - Contratos (Empresas terceirizadas e prestadores de serviços para a TI).
   
 
-* 👨‍💻 Inspetor / Professor na REDEH desempenhando as funções de:
+* 👨‍💻 Inspetor / Professor na REDEH por 7 meses desempenhando as funções de:
     - Professor: Administração de aulas para projetos de alfabetização digital (Intel) e fundamentos de TI (Cisco).
     - Inspetor de Alunos: Supervisão de alunos da fundação Casa Arte Vida durante a utilização dos computadores.
 
 
-* 👨‍💻 Professor no Ciep 305 – Heitor dos Prazeres desempenhando as funções de:
+* 👨‍💻 Professor no Ciep 305 – Heitor dos Prazeres por 7 meses desempenhando as funções de:
     - Gestão Tecnológica: Manutenção de computadores, impressoras e rede estruturada na sala de informática.
     - Professor: Administração de aulas e apoio técnico. 
 
 
-* 👨‍💻 Analista de desenvolvimento de sistemas na BEQUEST SOLUÇÕES desempenhando as funções de:
+* 👨‍💻 Analista de desenvolvimento de sistemas na BEQUEST SOLUÇÕES por 4 meses desempenhando as funções de:
     - Gestão Tecnológica: Administração de computadores, impressoras e rede estruturada.
     - Professor: Administração de aulas e implantação de sistemas para controle de presença em salas de aula. 
   
